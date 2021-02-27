@@ -2,19 +2,24 @@
 # -*- coding:utf-8 -*-
 
 from datetime import datetime
+
+import csdn
 from twitter import APIKey, ITwitter
 
-if __name__ == "__main__":
-    key = APIKey(
-        consumer_key = "",
-        consumer_secret = "",
-        bearer_token = r"",
-        access_token = "",
-        access_token_secret = ""
-    )
-    now = datetime.now()
-    my_tweets_file = "twitter/{}-{}-{}-my-tweets.md".format(now.year, now.month, now.day)
-    twitter = ITwitter(key,"http://127.0.0.1:7890")
-    twitter.get_tweets(my_tweets_file)
-    twitter.empty_tweets()
+from utils import config_all
+from twitter import backup_tweets
+from typecho import get_article
 
+twitter_config = config_all["twitter"]
+
+
+if __name__ == "__main__":
+    # twitter
+    my_tweets_file = "post/twitter/{}-{}-{}-my-tweets.md".format(now.year, now.month, now.day)
+    backup_tweets(twitter_config, my_tweets_file)
+
+    # csdn
+    csdn.spider("ds19991999", "utils/cookie.txt", "post/csdn")
+
+    # typoche
+    get_article("post/typecho")

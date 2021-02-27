@@ -1,3 +1,13 @@
 # chat-backup
 
-![image-20210221022520226](https://cdn.jsdelivr.net/gh/ds19991999/image/picgo/20210221022529.png)
+Backup my internet memory.
+
+## twitter
+https://github.com/ds19991999/chat-backup/tree/main/post/twitter
+
+## bilibili
+https://github.com/ds19991999/chat-backup/tree/main/post/bilibili
+## csdn
+https://github.com/ds19991999/chat-backup/tree/main/post/csdn
+## typecho
+https://github.com/ds19991999/chat-backup/tree/main/post/bilibili

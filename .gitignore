@@ -131,3 +131,5 @@ dmypy.json
 # my setting
 twitter/key.py
 key.py
+utils/cookie.txt
+config.yaml
