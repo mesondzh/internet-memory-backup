@@ -1,18 +1,18 @@
-# chat-backup
+# internet-memory-backup
 
 Backup my internet memory.
 
 ## twitter
-https://github.com/ds19991999/chat-backup/tree/main/post/twitter
+https://github.com/ds19991999/internet-memory-backup/tree/main/post/twitter
 
 ## bilibili
-https://github.com/ds19991999/chat-backup/tree/main/post/bilibili
+https://github.com/ds19991999/internet-memory-backup/tree/main/post/bilibili
 ## csdn
-https://github.com/ds19991999/chat-backup/tree/main/post/csdn
+https://github.com/ds19991999/internet-memory-backup/tree/main/post/csdn
 ## typecho
-https://github.com/ds19991999/chat-backup/tree/main/post/bilibili
+https://github.com/ds19991999/internet-memory-backup/tree/main/post/bilibili
 ## jekyll
-https://github.com/ds19991999/chat-backup/tree/main/post/jekyll
+https://github.com/ds19991999/internet-memory-backup/tree/main/post/jekyll
 
 ## v2ex
 
