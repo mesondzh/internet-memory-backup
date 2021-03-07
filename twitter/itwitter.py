@@ -55,6 +55,8 @@ class ITwitter(object):
     
     def empty_tweets(self):
         for status_id in self.status_ids:
+            if (status_id==1368458750005145600):
+                continue
             self.api.destroy_status(status_id)
             print(status_id, 'deleted!')
 
