@@ -133,3 +133,8 @@ twitter/key.py
 key.py
 utils/cookie.txt
 config.yaml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/internet-memory-backup.iml
