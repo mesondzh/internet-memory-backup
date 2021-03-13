@@ -1,9 +1,9 @@
-# 红米 k30s 5G 刷入国际版ROM
+# 红米 k30s 5G 刷入国际版ROM或最新开发版
 
 ## 国际版ROM
 
-* https://c.mi.com/global/miuidownload/index
-* 选择`Mi 10/Pro/Lite 5G`或者`Mi 10/Pro/Lite`都行
+* 国际版ROM：https://c.mi.com/global/miuidownload/index , 选择`Mi 10T/Pro/Lite`都行
+* 最新开发版ROM：https://github.com/mooseIre/update_miui_ota
 
 ## 解锁BL
 
