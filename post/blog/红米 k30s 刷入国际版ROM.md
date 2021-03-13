@@ -34,7 +34,7 @@
 
 ```she
 adb root
-adb shell settings get secure android_id
+adb shell 'sqlite3 /data/data/com.google.android.gsf/databases/gservices.db "select * from main where name = \"android_id\";"'
 ```
 
 向谷歌提交 android_id：https://www.google.com/android/uncertified
