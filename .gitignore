@@ -138,3 +138,5 @@ config.yaml
 /.idea/modules.xml
 /.idea/misc.xml
 /.idea/internet-memory-backup.iml
+editor.xml
+workspace.xml
