@@ -11,7 +11,7 @@
 
 ## 刷入三方 REC
 
-* https://dshvv.lanzous.com/b01tt66li 密码: dshvv
+* https://www.lanzoui.com/b01tt66li 密码: dshvv
 * 双击**移动叔叔论坛一键写rec.exe**，按照提示将**红米k30s至尊版基于wzsx150魔改（twr）.img.zip**解压并重命名.
 * 手机按电源键+音量下键进入bootloader
 * 手机连接电脑之后就可以通过****移动叔叔论坛一键写rec.exe****刷入三方rec
