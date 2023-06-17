@@ -9,3 +9,4 @@
 # JDK 镜像下载地址：
 
 * http://www.codebaoku.com/jdk/jdk-oracle-jdk11.html
+* https://repo.huaweicloud.com/java/jdk/
