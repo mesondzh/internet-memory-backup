@@ -8,5 +8,4 @@
 
 # JDK 镜像下载地址：
 
-- https://code.aliyun.com/kar/ojdk-8u281/raw/master/jdk-8u281-windows-x64.exe
-- https://code.aliyun.com/kar/ojdk-11.0.10/raw/master/jdk-11.0.10_windows-x64_bin.zip
+* http://www.codebaoku.com/jdk/jdk-oracle-jdk11.html
